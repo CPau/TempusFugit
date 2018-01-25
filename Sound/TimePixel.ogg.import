@@ -1,0 +1,14 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/TimePixel.ogg-122e667429f3755bfba7915910721dc8.oggstr"
+
+[deps]
+
+source_md5="b40989680e02e24e0c09041e4f68fdad"
+
+[params]
+
+loop=true
+loop_offset=0
